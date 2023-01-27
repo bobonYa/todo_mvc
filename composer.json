@@ -1,0 +1,19 @@
+{
+    "name": "bobon/todo",
+    "description": "Test for BeeJee",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anton",
+            "email": "79134648990@yandex.ru"
+        }
+    ],
+    "require": {
+        "smarty/smarty": "^4.3"
+    }
+}
